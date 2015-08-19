@@ -56,7 +56,7 @@
 #define HAVE_UNISTD_H 1
 
 /* Define to 1 if you have the <zlib.h> header file. */
-#define HAVE_ZLIB_H 1
+// #define HAVE_ZLIB_H 1
 
 /* Define to 1 if you have the `_snprintf' function. */
 #define HAVE__SNPRINTF 1
