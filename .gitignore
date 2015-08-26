@@ -9,3 +9,4 @@ fuse/lib/compressed/*.h
 libspectrum/*.h
 version.c
 *.bc
+*.js
